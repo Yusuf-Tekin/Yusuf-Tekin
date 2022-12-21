@@ -23,13 +23,14 @@ Contact me via these platforms!
 <img src="https://skillicons.dev/icons?i=js&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=react&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=redux&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=next&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=vue&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=nuxt&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=svelte&theme=light"></img>
 
 <img src="https://skillicons.dev/icons?i=nodejs"></img>
 <img src="https://skillicons.dev/icons?i=express"></img>
+
+<img src="https://skillicons.dev/icons?i=ts" />
 
 <img src="https://skillicons.dev/icons?i=mongo"></img>
 
